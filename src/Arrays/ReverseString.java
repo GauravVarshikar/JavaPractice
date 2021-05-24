@@ -6,7 +6,6 @@ public class ReverseString {
         String arr = "Hi My name is Gaurav!";
         System.out.println("input: " + arr);
         StringBuilder result = new StringBuilder();
-
         for(int i=arr.length()-1; i>=0;i--){
             result.append(arr.charAt(i));
         }
