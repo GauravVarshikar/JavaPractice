@@ -9,3 +9,4 @@ You may refer to the solution and share your feedback if you think I could have 
   🌭 Max subarray sum <br>
   🍿 Contains duplicate <br>
   🥓 Move zeroes <br>
+  🍳 Rotate Array<br>
