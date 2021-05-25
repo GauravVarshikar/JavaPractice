@@ -1,6 +1,6 @@
 # Data Structure & Algorithm Examples in Java
-This is a custom project capturing the Data structures and algorithm problems that I have solved using Java. <br>
-You may refer to the solution and share your feedback if you think I could have done better.
+This is a custom project capturing the Data Structures and Algorithm problems that I have solved using Java. <br>
+You may refer to the solution and share your feedback.
 
 <b>Arrays</b>:<br>
   🍕 Reverse a string <br>
